@@ -2,7 +2,7 @@
 title: "git_01"
 author: "Emily De Cosse"
 date: "October 3, 2016"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
