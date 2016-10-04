@@ -10,12 +10,55 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 # Build a Poem with commits
 Our project will be done using a sequence of save and commits.
+
 ## First Verse 
-
-
+Twas brillig, and the slithy toves 
+      Did gyre and gimble in the wabe: 
+All mimsy were the borogoves, 
+      And the mome raths outgrabe.
+      
 ## Second Verse
-
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+To where it bent in the undergrowth;
 
 ## Third Verse
-
+The sun was shining on the sea, 
+      Shining with all his might: 
+He did his very best to make 
+      The billows smooth and bright — 
+And this was odd, because it was 
+      The middle of the night. 
+      
 ## Last Verse
+My story’s told in the mis-dial’s
+hesitance & anonyms of crank calls,
+
+in the wires’ electric elegy
+& glass expanded by the moth
+
+flicker of filament. I call a past
+that believes I’m dead. On the concrete
+
+here, you can see where
+I stood in rust, lashed to the grid.
+
+On the corner of Pine & Idlewood,
+I’ve seen a virgin on her knees
+
+before the angel
+of a streetlight & Moses stealing the Times
+
+to build a fire. I’ve seen the city fly
+right through a memory & not break
+
+its neck. But the street still needs a shrine,
+so return my ringing heart & no one
+
+to answer it, a traveler whose only destination is
+waywardness. Forgive us
+
+our apologies, the bees in our bells, the receiver’s
+grease, days horizoned into words.
