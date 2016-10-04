@@ -1,0 +1,21 @@
+---
+title: "git_01"
+author: "Emily De Cosse"
+date: "October 3, 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with commits
+Our project will be done using a sequence of save and commits.
+## First Verse 
+
+
+## Second Verse
+
+
+## Third Verse
+
+## Last Verse
